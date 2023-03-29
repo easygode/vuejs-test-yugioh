@@ -10,7 +10,14 @@ export default {
 </script>
 
 <template>
-Template Classe 89
+<HelloApp></HelloApp>
+
+<section>
+  <select>
+    <option value="">Prima Opzione</option>
+  </select>
+</section>
+
 </template>
 
 <style lang="scss">
